@@ -5,20 +5,20 @@ ETL (Extracted-Transform-Load) data pipeline created by using Google Cloud Platf
 
 This project is one of my personal data engineering/machine learning projects regarding the topic of my interest.
 
-Topic: Thai people's activity and exercise survey data in 2021 and 2022
+## Topic: Thai people's activity and exercise survey data in 2021 and 2022
 
-Objective: 
+### Objective: 
 1. Create a simple data pipeline using Google Cloud Platform
 2. Identify the motivation for each individual for participating in certain activity
 3. Finding insight regarding individuals activity/exercise and other information such as their demographics
 
-Tools:
+### Tools:
 1. Visual Studio Code
 2. Python version 3.12
 3. Apache Spark(Pyspark) version 3.30 for Google Cloud Dataproc
 4. Google Cloud Platform Services: Google Cloud Storage, Google Cloud Composer(Airflow 2), Google Cloud Dataproc, Google Cloud Biq Query, and Looker Studio
 
-End-to-end process:
+### End-to-end process:
 1. Fetch the data from open datasite from Thailand open data site using python request API. 
 2. Store the data to Google Cloud Storage as an excel file.
 3. Create python/pyspark script for Google DataProc for data wrangling/cleaning.
@@ -31,7 +31,7 @@ End-to-end process:
 
 Full process explanation: (Will be post as a blog in Medium, when: TBA)
 
-Resources and References:
+### Resources and References:
 1. https://data.go.th/dataset/psdexercise
 2. Course: Road to Data Engineer 2.0 by DataTh School
 3. https://cloud.google.com/dataproc?hl=en
