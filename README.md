@@ -14,7 +14,7 @@ This project is one of my personal data engineering/machine learning projects re
 
 ### Tools:
 1. Visual Studio Code
-2. Python version 3.12
+2. Python 3.12 version
 3. Apache Spark(Pyspark) version 3.30 for Google Cloud Dataproc
 4. Google Cloud Platform Services: Google Cloud Storage, Google Cloud Composer(Airflow 2), Google Cloud Dataproc, Google Cloud Biq Query, and Looker Studio
 5. Jupyter Notebook for showing result of Pyspark version 3.5.1
