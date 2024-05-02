@@ -32,6 +32,12 @@ This project is one of my personal data engineering/machine learning projects re
 
 Full process explanation: (Will be post as a blog in Medium, when: TBA)
 
+### Result
+![image](https://github.com/NapojTH/Exercise-Activity-Data-Pipeline-Using-GCP/assets/67892412/1b953337-2b8c-4ef2-be3b-71ed7488e53e)
+
+![image](https://github.com/NapojTH/Exercise-Activity-Data-Pipeline-Using-GCP/assets/67892412/f4375fbf-91eb-4819-a6da-fb2194796d45)
+
+
 ### Resources and References:
 1. https://data.go.th/dataset/psdexercise
 2. Course: Road to Data Engineer 2.0 by DataTh School
