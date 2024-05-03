@@ -30,7 +30,7 @@ This project is one of my personal data engineering/machine learning projects re
 7. Create a view from dataset and table in Google Cloud Biq Query after the performance of DAG airflow is success.
 8. Using the view created in previous step in Looker Studio for creating dashboard and finding insight.
 
-Full process explanation: (Will be post as a blog in Medium, when: TBA)
+Full process explanation: [(Will be post as a blog in Medium, when: TBA)](https://medium.com/@gunj.napoj/my-interest-project-thai-people-exercise-and-activities-etl-data-pipeline-08aa14df4db6)
 
 ### Result
 ![image](https://github.com/NapojTH/Exercise-Activity-Data-Pipeline-Using-GCP/assets/67892412/1b953337-2b8c-4ef2-be3b-71ed7488e53e)
